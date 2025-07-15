@@ -4,7 +4,7 @@ Saves the current `rs:lightTable` highlight data from your browser's localStorag
 
 ## How to Use
 
-1. Copy the **minified** bookmarklet code (`save-rs-lighttable-data.min.js`).
+1. Copy the **minified** bookmarklet code (`osrs-save-rs-lighttable-data.min.js`).
 2. Create a new bookmark in your browser.
 3. Paste the minified code into the bookmark’s URL/location field.
 4. Click the bookmark to download the current `rs:lightTable` data as a `.txt` file.
